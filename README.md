@@ -1,4 +1,5 @@
 <h1 align="center"> Explorer Lab #01 </h1>
+<h2 align="left"> Projeto em deploy: <p>https://card-app-explorer-lab.vercel.app/</p> </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
